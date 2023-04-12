@@ -9,6 +9,6 @@
 let num = 12
 
 // 기본값이 설정된 매개변수 'b' + 반환값이 있는 함수 'add'
-function add(a: number, b = 2){
+function add123(a: number, b = 2){
   return a + b
 }

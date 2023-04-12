@@ -16,7 +16,7 @@ if (h1El2 instanceof HTMLHeadingElement) {
 }
 
 // 2)
-function add2(val: string | number) {
+function add22(val: string | number) {
   let res = 'Result => '
   if (typeof val === 'number') {
     res += val.toFixed(2)
@@ -25,6 +25,6 @@ function add2(val: string | number) {
   }
   console.log(res)
 }
-add2(3.141592)
-add2('hello world')
+add22(3.141592)
+add22('hello world')
 

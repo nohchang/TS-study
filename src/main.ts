@@ -1,9 +1,3 @@
-let hello: string = 'Hello World!'
-
-hello = 'hello~'
-
-console.log(hello)
-
 // 타입 종류
 
 /// 문자
